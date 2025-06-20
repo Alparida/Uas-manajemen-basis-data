@@ -1,1 +1,3 @@
-# Uas-manajemen-basis-data
+Alparida
+D0222517
+D 22
